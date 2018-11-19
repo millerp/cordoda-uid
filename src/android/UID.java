@@ -3,7 +3,7 @@
  * Distributed under the MIT License.
  * (See accompanying file LICENSE or copy at http://opensource.org/licenses/MIT)
  */
-package org.hygieiasoft.cordova.uid;
+package io.ionic.uid;
 
 import android.content.Context;
 import android.telephony.TelephonyManager;
