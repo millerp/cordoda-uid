@@ -20,7 +20,7 @@
         "android"
     ],
     "cordova": {
-        "id": "millerp-cordova-ui",
+        "id": "millerp-cordova-uid",
         "platforms": [
           "android"
         ]
